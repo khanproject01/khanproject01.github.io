@@ -1,0 +1,66 @@
+body{
+	background-color: #ccc;
+}
+@media (min-width: 768px){
+.container-sm-height{
+	display: table;
+	padding-left: 0px;
+	padding-right: 0px;
+ }
+ .row-sm-height{
+ 	display: table-row;
+ }
+ .col-sm-height{
+ 	display: table-cell;
+ 	float: none;
+ }
+}
+
+@media (min-width: 992px){
+.container-sm-height{
+	display: table;
+	padding-left: 0px;
+ }
+ .row-sm-height{
+ 	display: table-row;
+ }
+ .col-sm-height{
+ 	display: table-cell;
+ 	float: none;
+ }
+}
+.navbar{
+	background-color: #192a60 ;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.fashion h1{
+	color: white;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+.fashion p{
+	color: white;
+}
+#g1{
+	color: white;
+}
+.fashion a{
+	color: white;
+	text-decoration: none;
+	font-size: 24px;
+	padding: 10px;
+}
+.fashion a:hover{
+	border: 1px solid #ccc;
+	box-shadow: 4px 4px 4px 4px #777;
+	}
+	.hover:hover{
+	border: 2px solid #ccc;
+	box-shadow: 4px 4px 4px 4px #777;
+}
+.fashion{
+
+}

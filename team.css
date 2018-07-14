@@ -1,0 +1,27 @@
+
+body{
+	background-color: #f8f8f8;
+	
+}
+.navbar{
+   background-color:#192a60 ;
+}
+.ipl-teams img{
+	}
+
+.hover:hover{
+	border: 2px solid #ccc;
+	box-shadow: 4px 4px 4px 4px #777;
+}
+.btn{
+	margin: 0 auto;
+}
+footer{
+	color: #ccc;
+	background-color: #192a60;
+	text-align: center;
+	padding: 30px;
+
+	 
+}
+

@@ -1,0 +1,135 @@
+body{
+	font-family: sans-serif;
+}
+
+@media (min-width: 768px){
+.container-sm-height{
+	display: table;
+	padding-left: 0px;
+	padding-right: 0px;
+ }
+ .row-sm-height{
+ 	display: table-row;
+ }
+ .col-sm-height{
+ 	display: table-cell;
+ 	float: none;
+ }
+}
+
+@media (min-width: 992px){
+.container-sm-height{
+	display: table;
+	padding-left: 0px;
+ }
+ .row-sm-height{
+ 	display: table-row;
+ }
+ .col-sm-height{
+ 	display: table-cell;
+ 	float: none;
+ }
+}
+.navbar{
+	margin-bottom: 0px;
+	padding:0px 15px;
+	border-radius: 0px;
+	background-color:#192a60;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #ccc;
+}
+.navbar-inverse{
+	
+	border-color:#192a60;
+
+}
+
+aside{
+	color: #777;
+	background-color: #f8f8f8;
+	padding: 20px;
+	vertical-align: top;
+
+}
+article{
+	padding: 40px;
+}
+article img{
+	width: 100%;
+	height:100%;
+	text-align:center;
+	
+}
+article img:hover{
+	box-shadow: 4px 4px 4px 4px #777;
+}
+.ipl-teams{
+	padding-top: 40px;
+	padding-bottom:40px;
+	text-align: center;
+
+}
+.ipl-teams img{
+	width:100% ;
+	height:100%;
+	max-width: 120px;
+	max-height: 100px;
+	border: 4px solid darkorange;
+}
+.ipl-teams img:hover{
+	border: 2px solid #ccc;
+	box-shadow: 4px 4px 6px #777;
+}
+.sports-icon-list{
+	background-color: #192a60;
+	text-align: center;
+}
+.sports-icon-list img{
+	max-width: 80px;
+	max-height: 100px;
+
+}
+.sports-icon-list img:hover{
+	border: 2px solid #ccc;
+	box-shadow: 4px 4px 6px #777;
+}
+
+footer{
+
+	background-color:  #192a60;
+	
+
+
+}
+.footer-list{
+	color: white;
+}
+.footer-list a{
+	line-height: 2.2rem;
+	font-size: 12px;
+   
+	text-decoration: none;
+	color:#ccc;
+
+}
+.footer-list a:hover{
+	color: white;
+}
+.footer-bottom{
+	background-color: #131d3a;
+	height: 60px;
+}
+.footer-bottom p{
+	color: white;
+}
+.footer-bottom a{
+	color: white;
+	float: right;
+	padding: 10px;
+}
+
+
+
+
+

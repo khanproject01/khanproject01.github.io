@@ -1,0 +1,47 @@
+body{
+	background-color: #ccc;
+}
+
+.navbar{
+	background-color: #192a60 ;
+	margin-bottom: 0px;
+}
+
+#g1{
+	color: #fbe576;
+}
+.fashion p{
+	color: #fbe576;
+}
+.fashion h1{
+	color: #fbe576;
+	padding-top: 0px;
+	margin-top: 0px;
+
+
+}
+.hover:hover{
+	border: 2px solid #ccc;
+	box-shadow: 4px 4px 4px 4px #777;
+}
+#tabs{
+	vertical-align: top;
+}
+footer{
+	color: #ccc;
+	background-color: #192a60;
+	text-align: center;
+	padding: 50px;
+	 
+}
+.fashion a{
+	color: white;	
+	text-decoration: none;
+	font-size: 24px;
+	padding: 10px;
+}
+.fashion a:hover{
+	border: 1px solid #ccc;
+	box-shadow: 4px 4px 4px 4px #777;
+
+
